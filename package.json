@@ -1,0 +1,10 @@
+{
+  "name": "parse-nestay-dashboard",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parse-dashboard --dev --config parse-dashboard-config.json"
+  },
+  "dependencies": {
+    "parse-dashboard": "^5.0.0"
+  }
+}
